@@ -5,3 +5,7 @@ SATAphy3a7.zip - IBERT SATA project for Wukong board (https://github.com/ChinaQM
 IMG_0980m.jpg - SATA ports connection to Wukong board
 
 SATA_IBERT_A7_3G.PNG - IBERT traffic view via Lecroy SAS/SATA protocol analyser
+
+SATAphy3v6.zip - IBERT SATA project for virtex-6 sfp+ board from aliexpress. 
+
+autor email: s@rlab.ru
