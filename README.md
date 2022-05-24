@@ -6,6 +6,6 @@ IMG_0980m.jpg - SATA ports connection to Wukong board
 
 SATA_IBERT_A7_3G.PNG - IBERT traffic view via Lecroy SAS/SATA protocol analyser
 
-SATAphy3v6.zip - IBERT SATA project for virtex-6 sfp+ board from aliexpress. 
+SATAphy3v6.zip - IBERT SATA project for XC6VLX365T PCIE SFP+ board from aliexpress. 
 
 autor email: s@rlab.ru
