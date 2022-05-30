@@ -8,4 +8,6 @@ SATA_IBERT_A7_3G.PNG - IBERT traffic view via Lecroy SAS/SATA protocol analyser
 
 SATAphy3v6.zip - IBERT SATA project for XC6VLX365T PCIE SFP+ board from aliexpress. 
 
+blog record about this project: https://blog.rlab.ru/konstruktsiya-interfeysa-sata-chast-6-1034.html
+
 autor email: s@rlab.ru
